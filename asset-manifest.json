@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.js": "/mohammad-hakimi.github.io/react-blog/static/js/main.ad255ca3.chunk.js",
-    "main.js.map": "/mohammad-hakimi.github.io/react-blog/static/js/main.ad255ca3.chunk.js.map",
-    "runtime-main.js": "/mohammad-hakimi.github.io/react-blog/static/js/runtime-main.b341e825.js",
-    "runtime-main.js.map": "/mohammad-hakimi.github.io/react-blog/static/js/runtime-main.b341e825.js.map",
-    "static/js/2.0a3fd2f2.chunk.js": "/mohammad-hakimi.github.io/react-blog/static/js/2.0a3fd2f2.chunk.js",
-    "static/js/2.0a3fd2f2.chunk.js.map": "/mohammad-hakimi.github.io/react-blog/static/js/2.0a3fd2f2.chunk.js.map",
-    "index.html": "/mohammad-hakimi.github.io/react-blog/index.html",
-    "precache-manifest.9354ca3b1d9971cdd4d122b2759cec72.js": "/mohammad-hakimi.github.io/react-blog/precache-manifest.9354ca3b1d9971cdd4d122b2759cec72.js",
-    "service-worker.js": "/mohammad-hakimi.github.io/react-blog/service-worker.js",
-    "static/js/2.0a3fd2f2.chunk.js.LICENSE.txt": "/mohammad-hakimi.github.io/react-blog/static/js/2.0a3fd2f2.chunk.js.LICENSE.txt",
-    "static/media/loading.svg": "/mohammad-hakimi.github.io/react-blog/static/media/loading.23721bad.svg"
+    "main.js": "/react-blog/static/js/main.19d9680c.chunk.js",
+    "main.js.map": "/react-blog/static/js/main.19d9680c.chunk.js.map",
+    "runtime-main.js": "/react-blog/static/js/runtime-main.796b35e1.js",
+    "runtime-main.js.map": "/react-blog/static/js/runtime-main.796b35e1.js.map",
+    "static/js/2.0a3fd2f2.chunk.js": "/react-blog/static/js/2.0a3fd2f2.chunk.js",
+    "static/js/2.0a3fd2f2.chunk.js.map": "/react-blog/static/js/2.0a3fd2f2.chunk.js.map",
+    "index.html": "/react-blog/index.html",
+    "precache-manifest.d8664a1ea6aa3d86f1097c2a1e64c47c.js": "/react-blog/precache-manifest.d8664a1ea6aa3d86f1097c2a1e64c47c.js",
+    "service-worker.js": "/react-blog/service-worker.js",
+    "static/js/2.0a3fd2f2.chunk.js.LICENSE.txt": "/react-blog/static/js/2.0a3fd2f2.chunk.js.LICENSE.txt",
+    "static/media/loading.svg": "/react-blog/static/media/loading.23721bad.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.b341e825.js",
+    "static/js/runtime-main.796b35e1.js",
     "static/js/2.0a3fd2f2.chunk.js",
-    "static/js/main.ad255ca3.chunk.js"
+    "static/js/main.19d9680c.chunk.js"
   ]
 }
